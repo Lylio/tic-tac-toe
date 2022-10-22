@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.footer-parent {
+  margin-top: 10%;
+}
+
+.footer {
+  color: dimgray;
+  font-weight: bolder;
+}
+
+  .footer a {
+    color: dimgray;
+    text-decoration: none;
+  }
+  .footer a:hover {
+    opacity: 50%;
+  }

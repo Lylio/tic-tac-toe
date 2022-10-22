@@ -6,7 +6,7 @@
 
 body {
   background: #222;
-  font-family: consolas;
+  font-family: Roboto, Helvetica, sans-serif;
 }
 
 .tic-tac-toe {
