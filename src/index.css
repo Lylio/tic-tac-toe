@@ -15,7 +15,7 @@ body {
   text-align: center;
 }
 .tic-tac-toe h1 {
-  color: #eee;
+  color: #df2eff;
 }
 
 .tic-tac-toe button {
@@ -32,7 +32,7 @@ body {
 }
 
 .tic-tac-toe button:hover {
-  background: #eee;
+  background: #df2eff;
   color: #222;
 }
 .tic-tac-toe .game {
